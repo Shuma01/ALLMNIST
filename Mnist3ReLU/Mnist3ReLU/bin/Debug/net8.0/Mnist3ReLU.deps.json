@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mnist3ReLU/1.0.0": {
+        "runtime": {
+          "Mnist3ReLU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mnist3ReLU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
