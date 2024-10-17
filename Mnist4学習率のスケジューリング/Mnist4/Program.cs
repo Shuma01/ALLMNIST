@@ -132,7 +132,7 @@ namespace MultinomialClassification {
 
             Console.WriteLine("検証開始");
             // 評価の実行
-            EvaluateModel(testData, weightsW, weightsV);
+            EvaluateModel(testData, weightsV, weightsW);
         }
 
         // 学習用の関数 (トレーニングデータを使って重みを学習)
@@ -264,7 +264,7 @@ namespace MultinomialClassification {
         }
 
         // 検証用の関数 (テストデータを使ってモデルを評価)
-        static void EvaluateModel(List<NumberData> testData, List<double[]> weightsW, List<double[]> weightsV) {
+        static void EvaluateModel(List<NumberData> testData, List<double[]> weightsV, List<double[]> weightsW) {
             int correctPredictions = 0;
             foreach (var irisData in testData) {
                 double[] x = irisData.GetFeatures();

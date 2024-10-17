@@ -12,3 +12,17 @@ C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4\Mnis
 C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4\Mnist4\obj\Debug\net8.0\Mnist4.pdb
 C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4\Mnist4\obj\Debug\net8.0\Mnist4.genruntimeconfig.cache
 C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4\Mnist4\obj\Debug\net8.0\ref\Mnist4.dll
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\bin\Debug\net8.0\Mnist4.exe
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\bin\Debug\net8.0\Mnist4.deps.json
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\bin\Debug\net8.0\Mnist4.runtimeconfig.json
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\bin\Debug\net8.0\Mnist4.dll
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\bin\Debug\net8.0\Mnist4.pdb
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.AssemblyInfoInputs.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.AssemblyInfo.cs
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.csproj.CoreCompileInputs.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.dll
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\refint\Mnist4.dll
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.pdb
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\Mnist4.genruntimeconfig.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Mnist4学習率のスケジューリング\Mnist4\obj\Debug\net8.0\ref\Mnist4.dll

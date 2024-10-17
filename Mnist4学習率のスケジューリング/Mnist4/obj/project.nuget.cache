@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFvG8Yi+qVBszFxBU4uT9W5Zwzv1U0yZ5jyditsBXlVhy/Nfxtcb61yacyWJxgq7+NCrLES1LLgl82ts7xY2WQ==",
+  "dgSpecHash": "1GQNiGxOCXrJvQzdu5MfJw4E58eRtS3GVXp/wTaKLvPqefmgaRx3gHADXhLAN8HMF3jUVgC2m64JUApSY/kLeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\81902\\OneDrive\\デスクトップ\\ゼミ\\ソースコード\\Mnist4\\Mnist4\\Mnist4.csproj",
+  "projectFilePath": "C:\\Users\\81902\\OneDrive\\デスクトップ\\ゼミ\\ソースコード\\Mnist4学習率のスケジューリング\\Mnist4\\Mnist4.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
