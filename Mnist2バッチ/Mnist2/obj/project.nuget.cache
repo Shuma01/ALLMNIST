@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sU13yPYOlPaq5Z/OOUu6Xloj0xUt8FMNj9CLHtlonVR4wOHWNAnbB25HYa27+w+Fijmk6eqYQH1B3WZExwnjJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\81902\\OneDrive\\デスクトップ\\ゼミ\\ソースコード\\Mnist2バッチ\\Mnist2\\Mnist2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81902\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
